@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2? family= Hind+Siliguri:wght@700 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@700&display=swap');
 :root{
-    --cor-fundo: #f1cbff;
-    --cor-paragrafo:#c9c9ff;
+    --cor-fundo: #ffcbf8;
+    --cor-paragrafo:#b91662;
     --cor-link:#F52F7F;
 }
 
@@ -18,7 +18,8 @@ body {
 }
   h1 {
       text-align: center;
-      color: palevioletred;
+      color: palevioletred
+      
   }
 
 
@@ -34,3 +35,9 @@ body {
 ul li a{
     color: var(--cor-link);
 }
+  p {
+
+    color:var(--cor-paragrafo)
+
+
+  }
