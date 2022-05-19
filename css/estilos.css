@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2? family= Hind+Siliguri:wght@700 & display=swap');
+:root{
+    --cor-fundo: #f1cbff;
+    --cor-paragrafo:#c9c9ff;
+    --cor-link:#F52F7F;
+}
+
+body {
+    background-color: var(--cor-fundo);
+    width: 350px;
+    max-width: 100%;
+    margin: 0 auto;
+    /* margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto; */
+
+}
+  h1 {
+      text-align: center;
+      color: palevioletred;
+  }
+
+
+
+ img { 
+ border-radius: 50%;
+ border-color: rgb(116, 21, 45); 
+ border-width: 8px;  
+ border-style: solid;
+
+}
+
+ul li a{
+    color: var(--cor-link);
+}
